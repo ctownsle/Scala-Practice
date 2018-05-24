@@ -10,4 +10,4 @@ Assignment for Programming Languages Class. First attempt at writing anything in
 </html>
 
 ## Notes
-I may try to redo this using some other pattern then the BNF provides too us, because it is extremely dense, and there has to be a better way of doing this using parser combinators.
+I may try to redo this using some other pattern then the BNF provides to us because it is extremely dense, and there has to be a better way of doing this using parser combinators.
